@@ -1,0 +1,40 @@
+
+body {
+  color: #73879C;
+  background: #2A3F54;
+  /*#ECF0F1; #FCFCFC*/
+  font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.471;
+}
+
+.container {
+  width: 100%;
+  padding: 0
+}
+
+.col-md-3{
+  position: relative;
+  min-height: 1px;
+  float: left;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.left_col {
+  width: 230px;
+  padding: 0;
+  position: absolute;
+  display: flex;
+}
+.navbar {
+  margin-bottom: 0
+}
+.nav_title {
+  width: 230px;
+  float: left;
+  background: #2A3F54;
+  border-radius: 0;
+  height: 57px;
+}
